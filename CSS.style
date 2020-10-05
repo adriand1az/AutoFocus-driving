@@ -59,36 +59,43 @@ section{
     
 }
 section#home{
-    background: url('./tobias-seward-Y6mHDrHzhN0-unsplash.jpg');
+    background: url('./tobias-seward-Y6mHDrHzhN0-unsplash-min.jpg') no-repeat center fixed;
     background-size: cover;
-    background-repeat: no-repeat;
-
+    opacity: 0.90;
+    
 }
 section#current-special{
-    background: url('./tobias-huske-Bj6p5SZWQiY-unsplash.jpg') no-repeat center fixed;
+    background: url('./tobias-huske-Bj6p5SZWQiY-unsplash-min.jpg') no-repeat center fixed;
     background-size: cover;
+    opacity: 0.90;
 }
 section#services{
-    background: url('./olav-tvedt--oVaYMgBMbs-unsplash.jpg') no-repeat center fixed;
+    background: url('./olav-tvedt--oVaYMgBMbs-unsplash-min.jpg') no-repeat center fixed;
     background-size: cover;
+    opacity: 0.90;
 
 }
 section#about-us{
-    background: url('./gabriel-gurrola-u6BPMXgURuI-unsplash.jpg') no-repeat center fixed;
+    background: url('./gabriel-gurrola-u6BPMXgURuI-unsplash-min.jpg') no-repeat center fixed;
     background-size: cover;
+    opacity: 0.90;
 }
 section#road-test{
-    background: url('./luemen-carlson-Sr-0bIyNkWc-unsplash.jpg')  no-repeat center fixed;
+    background: url('./luemen-carlson-Sr-0bIyNkWc-unsplash-min.jpg')  no-repeat center fixed;
     background-size: cover;
+    opacity: 0.90;
 }
 section#packages{
-    background: url('./denys-nevozhai-QD-8l-8_uJg-unsplash.jpg')no-repeat center fixed;
+    background: url('./denys-nevozhai-QD-8l-8_uJg-unsplash-min.jpg')no-repeat center fixed;
     background-size: cover;
+    opacity: 0.90;
 }
 section#contact{
-    background: url('./erik-mclean-ZRns2R5azu0-unsplash.jpg')  no-repeat center fixed;
+    background: url('./erik-mclean-ZRns2R5azu0-unsplash-min.jpg')  no-repeat center fixed;
     background-size: cover;
+    opacity: 0.90;
 }
+
 
 section h1{
     font-size: 4rem;
